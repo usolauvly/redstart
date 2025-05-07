@@ -4,7 +4,7 @@
 
 ## Getting Started
 
-If needed, install `pixi` from [`https://prefix.dev`](https://prefix.dev).
+If needed, install `pixi` from [prefix.dev](https://prefix.dev).
 
 Then, in a terminal opened in the root directory of this project, type:
 
