@@ -14,4 +14,4 @@ pixi run dev
 
 ## License
 
-[![](/public/images/cc-by.svg)](https://creativecommons.org/licenses/by/4.0) CC BY 4.0
+[![](/public/images/cc-by.svg)](https://creativecommons.org/licenses/by/4.0)
