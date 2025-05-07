@@ -12,4 +12,6 @@ Then, in a terminal opened in the root directory of this project, type:
 pixi run dev
 ```
 
-![](/public/images/cc-by.svg)
+-----
+
+License: [![](/public/images/cc-by.svg)](https://creativecommons.org/licenses/by/4.0)
