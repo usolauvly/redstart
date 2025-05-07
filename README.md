@@ -11,3 +11,5 @@ Then, in a terminal opened in the root directory of this project, type:
 ```
 pixi run dev
 ```
+
+![](/public/images.cc-by.svg)
