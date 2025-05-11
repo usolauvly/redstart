@@ -18,4 +18,4 @@ This project relies on [marimo] notebooks.
 
 ## License
 
-[![](/public/images/cc-by.svg)](https://creativecommons.org/licenses/by/4.0) Sébastien Boisgérault (mailto:Sebastien.Boisgerault@minesparis.psl.eu)
+[![](/public/images/cc-by.svg)](https://creativecommons.org/licenses/by/4.0) Sébastien Boisgérault (Sebastien.Boisgerault@minesparis.psl.eu)
