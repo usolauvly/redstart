@@ -355,7 +355,7 @@ def _(mo):
 def _(mo):
     mo.md(
         r"""
-    ## 🧩 Visualisation
+    ## 🧩 Visualization
 
     Produce a video of the booster for 5 seconds when
 
